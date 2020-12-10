@@ -11,4 +11,4 @@ end
 
 
 
-puts speak_to_grandma("HEy")
+puts speak_to_grandma("HEY")
